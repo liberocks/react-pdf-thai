@@ -25,7 +25,8 @@ console.log(__dirname);
 
 Font.register({
   family: "Chakra",
-  src: `/fonts/ChakraPetch-Regular.ttf`,
+  src:
+    "https://cdn-procurement.swiperxapp.com/fonts/Sarabun/Sarabun-Regular.ttf",
 });
 
 // Create Document Component
